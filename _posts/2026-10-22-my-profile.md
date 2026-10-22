@@ -5,11 +5,13 @@ date: 2026-10-22
 ---
 # Edi Wijaya
 
-> 🎨 Hello! I’m **Edi Wijaya**, an AI Engineer based in Jakarta, Indonesia.
->
-> With over 6 years of hands-on experience, I specialize in building...
+<img src="https://github.com/user-attachments/assets/94dffe2d-7db2-4c0e-b256-c9a5d490da71" alt="Edi Wijaya" style="width: 200px; height: 250px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 
-<img width="768" height="1024" alt="ad1480e8-d8a5-4598-9132-5f6613f3d034" src="https://github.com/user-attachments/assets/94dffe2d-7db2-4c0e-b256-c9a5d490da71" />
+🎨 Hello! I’m **Edi Wijaya**, an AI Engineer based in Jakarta, Indonesia.
+
+With over 6 years of hands-on experience, I specialize in building high-impact AI solutions that drive business value across Artificial Intelligence, Software Engineering, and Data Science.
+
+<div style="clear: both;"></div>
 
 # 🌈 About Me
 
